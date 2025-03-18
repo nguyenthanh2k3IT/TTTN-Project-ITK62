@@ -27,20 +27,10 @@ CREATE OR REPLACE PROCEDURE MESMGR.P_CQCM0029_Q (
     CV_7                 OUT SYS_REFCURSOR,
     CV_8                 OUT SYS_REFCURSOR,
     CV_9                 OUT SYS_REFCURSOR--,
---    CV_10                OUT SYS_REFCURSOR,
---    CV_11                OUT SYS_REFCURSOR,
---    CV_12                OUT SYS_REFCURSOR,
---    CV_13                OUT SYS_REFCURSOR
     
 ) 
 AS 
 
---    V_P_SQL CLOB;
---    LAST_PLANT_ID VARCHAR2(10);
---    V_P_PIVOT VARCHAR2(30000);
---    V_P_SUMCOL VARCHAR2(30000);
---    V_P_COL VARCHAR2(30000);
-    /* Variable definitions used within the procedure */     
     V_P_MIN_DATE VARCHAR2(8);
     V_P_TO_DAY VARCHAR2(8);
 
