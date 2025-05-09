@@ -1,1 +1,1 @@
-Đồ án Thực tập Tốt nghiệp - Nguyễn Thị Thanh - 6251071089
+Graduation Internship Project - Nguyen Thi Thanh - 6251071089
